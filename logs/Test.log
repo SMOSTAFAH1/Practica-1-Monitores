@@ -1,0 +1,29 @@
+
+
+========================================
+
+All tests successful.
+
+Successes: test_v2_33 test_v2_35 test_v2_36 test_v2_47 test_v2_48 disponible_0 trans_alert_2 test_v3_1 crear_0 test_v2_4 trans_4 trans_3 trans_5 trans_0 trans_alert_1 alertarMax_0 trans_2 trans_1 
+
+Failures: 
+
+========================================
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+
+Test run finished after 18583 ms
+[         3 containers found      ]
+[         0 containers skipped    ]
+[         3 containers started    ]
+[         0 containers aborted    ]
+[         3 containers successful ]
+[         0 containers failed     ]
+[        18 tests found           ]
+[         0 tests skipped         ]
+[        18 tests started         ]
+[         0 tests aborted         ]
+[        18 tests successful      ]
+[         0 tests failed          ]
+
